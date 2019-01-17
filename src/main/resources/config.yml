@@ -1,0 +1,4 @@
+menu-name: "&6&lShard GUI"
+menu-size: 9 #Available sizes: 5, 9, 18, 27, 36, 45, 54
+
+Item-add-lore: "&cPrice: {Shards}"

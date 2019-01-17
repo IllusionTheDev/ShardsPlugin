@@ -1,0 +1,17 @@
+name: Shards
+version: 1
+description: Adds custom shards
+main: ImIllusion.Shards
+
+commands:
+  addShards: Usage /<command>
+  description: Adds shards
+
+  removeShards: Usage /<command>
+  description: Removes shards
+
+  setShards: Usage /<command>
+  description: Sets shards to a Player
+
+  shardShop: Usage /<command
+  description: Opens Shard shop GUI
